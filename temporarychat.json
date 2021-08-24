@@ -1,0 +1,36 @@
+[
+    {
+        "username": "Altair",
+        "with_user": "Dr Ayesha Ameen",
+        "chat": [
+            {
+                "username": "Altair",
+                "message": "hello ma'am"
+            },
+            {
+                "username": "Dr Ayesha Ameen",
+                "message": "Hello What is it...do not disturb unnecessarily"
+            },
+            {
+                "username": "Altair",
+                "message": "Ma'am actually i wanted to know my internal marks of previous semester"
+            },
+            {
+                "username": "Dr Ayesha Ameen",
+                "message": "Ask with the individual faculties"
+            },
+            {
+                "username": "Altair",
+                "message": "ok mam"
+            },
+            {
+                "username": "Altair",
+                "message": "ok mam"
+            },
+            {
+                "username": "Dr Ayesha Ameen",
+                "message": "ok"
+            }
+        ]
+    }
+]
